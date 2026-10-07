@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "releaseDate": "2026-10-08",
-  "downloadUrl": "https://你的下载地址/金猪集团_Setup_1.0.2.exe",
-  "releaseNotes": "1. 修复了代理连接问题\n2. 新增版本自动更新提示\n3. 优化了界面UI",
+  "version": "1.0.3",
+  "releaseDate": "2026-10-XX",
+  "downloadUrl": "https://你的真实下载地址/金猪集团_Setup_1.0.3.exe",
+  "releaseNotes": "1. 更新的功能一\n2. 更新的功能二",
   "forceUpdate": false
 }
