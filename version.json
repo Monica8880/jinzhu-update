@@ -1,1 +1,7 @@
-https://github.com/Monica8880/jinzhu-update/releases/download/v1.0.3/Setup.1.0.3.exe
+{
+  "version": "1.0.3",
+  "releaseDate": "2026-10-08",
+  "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.0.3/Setup.1.0.3.exe",
+  "releaseNotes": "1. 个性外观弹窗合并背景设置\n2. 背景/字体/颜色布局优化",
+  "forceUpdate": false
+}
