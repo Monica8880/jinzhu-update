@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.0.3/Jinzhu_Setup_1.0.8.exe",
    "releaseNotes": "1. 首页UI整体优化\n2. 批量查询页登录状态实时联动\n3. 会话中心新增开始筛选头像按钮\n4. 侧边栏折叠圆形头像+未读角标\n5. 加星库、历史记录整体优化"
 }
