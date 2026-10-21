@@ -2,5 +2,5 @@
   "version": "1.1.2",
   "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.1.2/Jinzhu_Setup_1.1.2.exe",
   "releaseDate": "2026-10-21",
-  "releaseNotes": "1. 修复图标问题\n2. 修复未读角标\n3. 增加手机号显示"
+  "releaseNotes": "1. 新增：自动识别并显示本机手机号\n2. 新增：语音转文字功能（支持自动识别语言）\n3. 新增：聊天背景自定义（顶部新增背景按钮）\n4. 修复：退出账号后不刷新二维码的问题\n5. 修复：右键图片无法复制/下载的问题\n6. 修复：拖动排序后账号顺序会复原的问题\n7. 优化：修复 Windows 任务栏未读角标不显示\n8. 优化：更新了全新的软件图标"
 }
