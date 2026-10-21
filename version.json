@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5.1",
-  "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.0.3/Jinzhu_Setup_1.1.5.1exe",
-  "releaseDate": "2026-10-21",
-  "releaseNotes": "最新版本发布！本次更新优化了软件运行体验，提升程序稳定性，并修复已知问题。建议所有用户更新至最新版本，以获得更好的使用体验。"
+  "version": "1.1.6",
+  "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.1.6/Jinzhu_Setup_1.1.6.exe",
+  "releaseDate": "2024-05-20",
+  "releaseNotes": "重磅更新！新增全天候定时工作提醒功能；修复 Emoji 表情导致无法翻译的 Bug；修复侧边栏 AI 检查翻译报错的问题；优化本地密钥存储安全与弹窗机制。建议所有用户更新！"
 }
