@@ -1,6 +1,6 @@
 {
   "version": "1.1.8",
-  "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.1.8/Jinzhu_Setup_1.1.8.exe",
+  "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.0.3/Jinzhu_Setup_1.1.8.exe",
   "releaseDate": "2024-05-25",
   "releaseNotes": "新增黑金高定更新弹窗；优化密码框输入；彻底修复长消息与表情包翻译失败的问题；优化 AI 回复格式。"
 }
