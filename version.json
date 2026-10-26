@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.0.3/Jinzhu_Setup_1.1.9.exe",
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/Monica8880/jinzhu-update/releases/download/v1.0.3/Jinzhu_Setup_1.2.0.exe",
   "releaseDate": "2024-05-26",
-  "releaseNotes": "新增话术素材库（无限导入/极速搜索/一键追加）；全新黑金高定面板UI；彻底修复表情包长消息翻译失败与翻译框看不清的问题。"
+  "releaseNotes": "重磅新增话术素材库（无限导入/极速搜索/一键追加）；全新黑金高定面板UI；彻底修复表情包长消息翻译失败与长文本撑爆按钮的问题。"
 }
